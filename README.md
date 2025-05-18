@@ -16,12 +16,6 @@ Your project is live at:
 
 **[https://vercel.com/heshaniiis-projects/v0-real-time-parking-finder](https://vercel.com/heshaniiis-projects/v0-real-time-parking-finder)**
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/8N2PyXeO5Gk](https://v0.dev/chat/projects/8N2PyXeO5Gk)**
-
 ## How It Works
 
 1. Create and modify your project using [v0.dev](https://v0.dev)
